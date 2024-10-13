@@ -23,5 +23,5 @@ This script allows you to sign messages on the Telestai network.
 
 
 ## NOTE
-You must have Telestai installed. (Find more)[telestai.io]
+You must have Telestai installed. (telestai.io)[FIND MORE]
 
